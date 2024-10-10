@@ -1,6 +1,6 @@
 # Mine-Sweeper_Github
 
-![Main Banner](Store Asset\new\store_capsule_header.png)
+![Main Banner](Store Asset/BackGround.png)
 
 Play Free on Steam! : https://store.steampowered.com/app/2758320/Mine_Sweeper/
 
