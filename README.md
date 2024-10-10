@@ -1,2 +1,8 @@
-# Mine-Sweeper
-Unity 2D puzzle platformer Game
+# Mine-Sweeper_Github
+
+
+Play Free on Steam! : https://store.steampowered.com/app/2758320/Mine_Sweeper/
+
+
+# Making Progress Github
+https://github.com/MingyuKwon/-
