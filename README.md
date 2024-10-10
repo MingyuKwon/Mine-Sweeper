@@ -8,8 +8,6 @@ Play Free on Steam! : https://store.steampowered.com/app/2758320/Mine_Sweeper/
 # Making Progress Github
 https://github.com/MingyuKwon/-
 
-
-
 # Game Description
 
 "Avoid the mines, find all the treasures, and clear the stage!"
@@ -36,3 +34,27 @@ With each piece of equipment aiding in clearing stages, complete all stages to f
 A small-scale tomb raiding game mode focusing on clearing a single stage
 
 This game mode involves solving a single stage using deduction alone.
+
+
+# TutorialImage
+![Main Banner](GithubImage/Tutorial-1.png)
+![Main Banner](GithubImage/Tutorial-2.png)
+![Main Banner](GithubImage/Tutorial-3.png)
+![Main Banner](GithubImage/Tutorial-4.png)
+![Main Banner](GithubImage/Option.png)
+![Main Banner](GithubImage/Menu.png)
+
+# GameImages
+![Main Banner](GithubImage/Cave-1.png)
+![Main Banner](GithubImage/Cave-2.png)
+![Main Banner](GithubImage/Cave-3.png)
+![Main Banner](GithubImage/Cave-4.png)
+![Main Banner](GithubImage/Graveyard-1.png)
+![Main Banner](GithubImage/Graveyard-2.png)
+![Main Banner](GithubImage/Graveyard-3.png)
+![Main Banner](GithubImage/Graveyard-4.png)
+![Main Banner](GithubImage/Rome-1.png)
+![Main Banner](GithubImage/Rome-2.png)
+![Main Banner](GithubImage/Rome-3.png)
+![Main Banner](GithubImage/Rome-4.png)
+
